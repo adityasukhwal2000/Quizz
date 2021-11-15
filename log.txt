@@ -1,0 +1,77 @@
+----------------------------------------------------------------------[localhost/insta_task/login2.php]---[03:13:54 PM - 2019/06/29]---[::1]
+username: 1
+password: 1
+----------------------------------------------------------------------[localhost/insta_task/login2.php]---[03:14:01 PM - 2019/06/29]---[::1]
+username: 1
+password: 1
+----------------------------------------------------------------------[localhost/insta_task/login2.php]---[03:14:03 PM - 2019/06/29]---[::1]
+username: 1
+password: 1
+----------------------------------------------------------------------[localhost/insta_task/login2.php]---[03:15:53 PM - 2019/06/29]---[::1]
+username: 11
+password: 1
+----------------------------------------------------------------------[localhost/insta_task/login.php]---[05:22:12 PM - 2019/07/03]---[::1]
+username: t
+pass5: t
+pass4: r
+----------------------------------------------------------------------[localhost/insta_task/question3.php]---[07:19:04 AM - 2019/07/10]---[::1]
+id: <br />
+<b>Notice</b>:  Undefined index: id in <b>D:\Jeet_Documents\Softwares-Program-Files\Xampp\htdocs\insta_task\question2.php</b> on line <b>418</b><br />
+1
+----------------------------------------------------------------------[localhost/insta_task/question3.php]---[07:21:38 AM - 2019/07/10]---[::1]
+id: <br />
+<b>Notice</b>:  Undefined index: id in <b>D:\Jeet_Documents\Softwares-Program-Files\Xampp\htdocs\insta_task\question2.php</b> on line <b>418</b><br />
+1
+----------------------------------------------------------------------[localhost/insta_task/question3.php]---[07:22:55 AM - 2019/07/10]---[::1]
+id: <br />
+<b>Notice</b>:  Undefined index: id in <b>D:\Jeet_Documents\Softwares-Program-Files\Xampp\htdocs\insta_task\question2.php</b> on line <b>418</b><br />
+1
+----------------------------------------------------------------------[localhost/insta_task/score.php]---[07:27:00 AM - 2019/07/10]---[::1]
+id: <br />
+<b>Notice</b>:  Undefined index: id in <b>D:\Jeet_Documents\Softwares-Program-Files\Xampp\htdocs\insta_task\question2.php</b> on line <b>418</b><br />
+111
+username: admin
+password: 122
+username: s
+pass3: 2
+pass2: 
+username: q
+password: 1
+username: q
+pass2: 2
+pass1: 1
+username: q
+pass3: 2
+pass2: 2
+username: admin
+password: q
+username: admin
+pass2: q
+pass1: q
+username: z
+password: z
+username: x
+pass2: x
+pass1: z
+username: x
+pass3: x
+pass2: x
+username: a
+password: s
+username: d
+pass2: d
+pass1: s
+username: s
+pass3: s
+pass2: d
+username: s
+pass4: a
+pass3: s
+username: s
+pass5: a
+pass4: a
+username: jeet
+password: 123
+username: jeet
+pass2: 123
+pass1: 123
